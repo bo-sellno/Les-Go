@@ -12,6 +12,8 @@ import { go } from 'les-go';
 
 go('start');
 
+#ok
+
 
 
 
