@@ -1,4 +1,4 @@
-# lesgo_utils.py
+# lesgo_utils.py ok
 
 def hype_message(name="friend"):
     phrases = [
